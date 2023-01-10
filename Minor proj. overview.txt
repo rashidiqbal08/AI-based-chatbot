@@ -1,0 +1,27 @@
+CHATBOT PROJECT:
+
+Tools and library to be used:-
+	numpy
+	nltk 
+	string
+	random
+
+PHASES FOR BACKEND:-
+1.    DATA PRE-PROCESSING:
+	
+	open file then convert to lowercase then tokenize using wordnet dict
+	convert it to sentence and words in list
+
+	Then go for lemmatization( we need normalized vector remove punctuation nd all)
+	  
+	Then just create a simple greeting function. and we can put it in any place
+	
+	 
+2.    RESPONSE GENERATION:- 
+	
+	Thats the complex part here 'sklearn' library will be used for feature extraction
+	 and "generating responses".
+
+3.    DRIVER CODE(getting the input):- 
+
+	take input from user in while loop and pass it on response function

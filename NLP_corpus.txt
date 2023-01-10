@@ -1,0 +1,3 @@
+nlp is a subset of artificial intelligence which deals with the language or text classification and prediction.
+ambiguity is a word which has multiple meaning.
+deep learning is a subset of machine learning.
